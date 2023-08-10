@@ -7,7 +7,6 @@
 </br><b>代码由GhatGPT生成。</b>
 
 </br>运行py文件需要以下系统环境：
-
 </br>Python：确保在您的系统上安装了Python。您可以从<a href="https://www.python.org/downloads/">Python官方网站</a>下载并按照特定于您的操作系统的安装说明进行安装。
 
 </br>必需的Python库：
